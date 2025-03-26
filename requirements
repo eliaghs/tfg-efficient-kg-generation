@@ -1,0 +1,4 @@
+spacy==3.4.4
+numpy
+thinc
+cython
