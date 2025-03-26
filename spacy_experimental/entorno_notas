@@ -1,0 +1,8 @@
+Python 3.10.11
+
+python -m venv spacy_experimental_env
+
+cd spacy_experimental_env
+Scripts\activate
+
+pip install spacy==3.4.4 (vídeo de youtube)
