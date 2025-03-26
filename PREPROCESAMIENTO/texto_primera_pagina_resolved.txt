@@ -1,0 +1,15 @@
+ Basketball Notes
+The Rules
+Basketball is a team sport. Two teams of five players each try to score by shooting
+a ball through a hoop elevated 10 feet above the ground. The game is played on a
+rectangular floor called the court, and there is a hoop at each end. The court is
+divided into two main sections by the mid-court line (10 second line). If **the offensive team** puts the ball into play behind the mid-court line, it has ten seconds to get the ball over the mid-court line. If it doesn't, then **the defensive team** gets the ball. Once **the offensive team** gets the ball over the mid-court line, it can no longer have possession of the ball in the area in back of the line. If it does, **the defensive team** is awarded the ball.
+Defensive Player
+The ball is moved down the court toward the basket by passing or dribbling. The team with the ball is called **the offensive team**.
+The team without the ball is called **the defensive team**.
+They try to steal the ball, contest shots, steal and deflect passes,
+and garner rebounds.
+Offensive Player
+
+    - The pronouns/ambiguous references are: "it", "they", and the absence of naming the offensive and defensive teams in some instances.
+    - Replacements: **the offensive team**, **the defensive team**
