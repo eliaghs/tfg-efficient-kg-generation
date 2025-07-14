@@ -1,0 +1,198 @@
+[
+  {
+    "sentence": "Conic sections can also be described by a set of points in the coordinate plane.",
+    "concepts": [
+      "Conic sections",
+      "set",
+      "set of points in the coordinate plane",
+      "points in the coordinate plane",
+      "coordinate plane"
+    ],
+    "verbs": [
+      "be",
+      "described"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Later in this chapter, we will see that the graph of any quadratic equation in two variables is a conic section.",
+    "concepts": [
+      "conic section",
+      "quadratic equation",
+      "quadratic equation in two variables",
+      "graph",
+      "graph of any quadratic equation in two variables",
+      "chapter",
+      "variables"
+    ],
+    "verbs": [
+      "is",
+      "see"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "The signs of the equations and the coefficients of the variable terms determine the shape.",
+    "concepts": [
+      "signs",
+      "signs of the equations",
+      "signs of the equations and the coefficients of the variable terms",
+      "coefficients",
+      "coefficients of the variable terms",
+      "equations",
+      "shape",
+      "variable terms"
+    ],
+    "verbs": [
+      "determine"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "This section focuses on the four variations of the standard form of the equation for the ellipse.",
+    "concepts": [
+      "section",
+      "ellipse",
+      "equation",
+      "equation for the ellipse",
+      "variations",
+      "variations of the standard form of the equation for the ellipse",
+      "standard form",
+      "standard form of the equation for the ellipse"
+    ],
+    "verbs": [
+      "focuses"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "An ellipse is the set of all points (x,y)(x,y) in a plane such that the sum of their distances from two fixed points is a constant.",
+    "concepts": [
+      "ellipse",
+      "constant",
+      "plane",
+      "points",
+      "set",
+      "set of all points ( x , y ) ( x , y )",
+      "set of all points ( x , y ) ( x , y ) in a plane",
+      "sum",
+      "distances",
+      "x , y"
+    ],
+    "verbs": [
+      "fixed",
+      "is"
+    ],
+    "concepts_with_verbs": [
+      "sum of their distances from two fixed points",
+      "distances from two fixed points",
+      "fixed points"
+    ]
+  },
+  {
+    "sentence": "Each fixed point is called a focus (plural: foci).",
+    "concepts": [
+      "focus"
+    ],
+    "verbs": [
+      "called",
+      "fixed",
+      "is"
+    ],
+    "concepts_with_verbs": [
+      "fixed point"
+    ]
+  },
+  {
+    "sentence": "We can draw an ellipse using a piece of cardboard, two thumbtacks, a pencil, and string.",
+    "concepts": [
+      "pencil",
+      "piece",
+      "piece of cardboard , two thumbtacks , a pencil , and string",
+      "ellipse",
+      "cardboard , two thumbtacks , a pencil , and string",
+      "thumbtacks"
+    ],
+    "verbs": [
+      "draw",
+      "using"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Place the thumbtacks in the cardboard to form the foci of the ellipse.",
+    "concepts": [
+      "ellipse",
+      "foci",
+      "foci of the ellipse",
+      "thumbtacks"
+    ],
+    "verbs": [
+      "Place",
+      "form"
+    ],
+    "concepts_with_verbs": [
+      "cardboard to form the foci of the ellipse"
+    ]
+  },
+  {
+    "sentence": "Cut a piece of string longer than the distance between the two thumbtacks (the length of the string represents the constant in the definition).",
+    "concepts": [
+      "piece",
+      "piece of string",
+      "constant",
+      "definition",
+      "distance",
+      "distance between the two thumbtacks",
+      "length",
+      "length of the string",
+      "string",
+      "thumbtacks"
+    ],
+    "verbs": [
+      "Cut",
+      "represents"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Tack each end of the string to the cardboard, and trace a curve with a pencil held taut against the string.",
+    "concepts": [
+      "Tack",
+      "curve",
+      "pencil",
+      "end",
+      "end of the string",
+      "cardboard",
+      "string"
+    ],
+    "verbs": [
+      "held",
+      "trace"
+    ],
+    "concepts_with_verbs": [
+      "Tack each end of the string to the cardboard , and trace a curve with a pencil"
+    ]
+  },
+  {
+    "sentence": "The result is an ellipse.",
+    "concepts": [
+      "result",
+      "ellipse"
+    ],
+    "verbs": [
+      "is"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "See Figure 3.",
+    "concepts": [
+      "Figure 3"
+    ],
+    "verbs": [
+      "See"
+    ],
+    "concepts_with_verbs": []
+  }
+]

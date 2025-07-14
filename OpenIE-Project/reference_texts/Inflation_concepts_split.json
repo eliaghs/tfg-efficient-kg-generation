@@ -1,0 +1,244 @@
+[
+  {
+    "sentence": "Demand-pull inflation is a type of inflation that occurs when the overall demand for goods and services in an economy outpaces the economy's ability to supply them.",
+    "concepts": [
+      "Demand",
+      "type",
+      "economy",
+      "goods and services",
+      "goods and services in an economy",
+      "economy 's",
+      "overall demand",
+      "overall demand for goods and services in an economy"
+    ],
+    "verbs": [
+      "is",
+      "occurs",
+      "outpaces",
+      "pull",
+      "supply"
+    ],
+    "concepts_with_verbs": [
+      "type of inflation that occurs when the overall demand for goods and services in an economy outpaces the economy 's ability to supply them",
+      "inflation that occurs when the overall demand for goods and services in an economy outpaces the economy 's ability to supply them",
+      "economy 's ability to supply them"
+    ]
+  },
+  {
+    "sentence": "It happens when the aggregate demand increases faster than the aggregate supply.",
+    "concepts": [
+      "aggregate demand",
+      "aggregate supply"
+    ],
+    "verbs": [
+      "happens",
+      "increases"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "In demand-pull inflation, there is an increase in consumer spending, business investment, or government expenditure, leading to a surge in demand.",
+    "concepts": [
+      "surge",
+      "surge in demand",
+      "increase",
+      "increase in consumer spending , business investment , or government expenditure",
+      "consumer spending , business investment , or government expenditure"
+    ],
+    "verbs": [
+      "is",
+      "leading",
+      "pull"
+    ],
+    "concepts_with_verbs": [
+      "increase in consumer spending , business investment , or government expenditure , leading to a surge in demand",
+      "demand - pull inflation"
+    ]
+  },
+  {
+    "sentence": "As demand rises, businesses may struggle to meet the increased demand with their existing production capacities, resulting in upward pressure on prices.",
+    "concepts": [
+      "demand rises",
+      "upward pressure",
+      "upward pressure on prices"
+    ],
+    "verbs": [
+      "existing",
+      "increased",
+      "meet",
+      "resulting",
+      "struggle"
+    ],
+    "concepts_with_verbs": [
+      "increased demand",
+      "existing production capacities",
+      "existing production capacities , resulting in upward pressure on prices"
+    ]
+  },
+  {
+    "sentence": "Several factors can contribute to demand-pull inflation:\r\n1.",
+    "concepts": [
+      "factors"
+    ],
+    "verbs": [
+      "contribute",
+      "demand",
+      "pull"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Strong Consumer Spending: When consumers have higher disposable income or confidence in the economy, they tend to spend more on goods and services.",
+    "concepts": [
+      "Strong Consumer Spending",
+      "confidence in the economy",
+      "goods and services",
+      "higher disposable income",
+      "higher disposable income or confidence in the economy",
+      "economy"
+    ],
+    "verbs": [
+      "have",
+      "spend",
+      "tend"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Increased consumer demand can lead to a shortage of supply relative to the demand, pushing prices higher.",
+    "concepts": [
+      "shortage",
+      "shortage of supply",
+      "demand"
+    ],
+    "verbs": [
+      "Increased",
+      "lead",
+      "pushing"
+    ],
+    "concepts_with_verbs": [
+      "Increased consumer demand",
+      "demand , pushing prices higher"
+    ]
+  },
+  {
+    "sentence": "2.",
+    "concepts": [],
+    "verbs": [],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Expansionary Monetary Policy: Central banks may implement expansionary monetary policies, such as lowering interest rates or increasing the money supply, to stimulate economic growth.",
+    "concepts": [
+      "Central banks",
+      "Expansionary Monetary Policy",
+      "economic growth",
+      "expansionary monetary policies",
+      "interest rates",
+      "money supply"
+    ],
+    "verbs": [
+      "implement",
+      "increasing",
+      "lowering",
+      "stimulate"
+    ],
+    "concepts_with_verbs": [
+      "expansionary monetary policies , such as lowering interest rates or increasing the money supply , to stimulate economic growth"
+    ]
+  },
+  {
+    "sentence": "This can boost borrowing and investment, resulting in increased aggregate demand and potential inflationary pressures.",
+    "concepts": [
+      "borrowing and investment",
+      "potential inflationary pressures"
+    ],
+    "verbs": [
+      "boost",
+      "increased",
+      "resulting"
+    ],
+    "concepts_with_verbs": [
+      "increased aggregate demand",
+      "increased aggregate demand and potential inflationary pressures"
+    ]
+  },
+  {
+    "sentence": "3.",
+    "concepts": [],
+    "verbs": [],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Government Spending: Increased government spending, particularly when financed through deficit spending or borrowing, can stimulate demand in the economy.",
+    "concepts": [
+      "Government Spending",
+      "deficit spending or borrowing",
+      "economy"
+    ],
+    "verbs": [
+      "Increased",
+      "financed",
+      "stimulate"
+    ],
+    "concepts_with_verbs": [
+      "Increased government spending",
+      "Increased government spending , particularly when financed through deficit spending or borrowing ,"
+    ]
+  },
+  {
+    "sentence": "Government expenditure on infrastructure projects, welfare programs, or defense can contribute to demand-pull inflation.",
+    "concepts": [
+      "Government expenditure",
+      "Government expenditure on infrastructure projects , welfare programs , or defense",
+      "infrastructure projects",
+      "infrastructure projects , welfare programs , or defense",
+      "welfare programs"
+    ],
+    "verbs": [
+      "contribute",
+      "demand",
+      "pull"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "4.",
+    "concepts": [],
+    "verbs": [],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Investment and Business Confidence: When businesses are optimistic about future prospects, they may increase investment and expand their production capacities.",
+    "concepts": [
+      "Investment and Business Confidence",
+      "future prospects",
+      "production capacities"
+    ],
+    "verbs": [
+      "are",
+      "expand",
+      "increase"
+    ],
+    "concepts_with_verbs": [
+      "Investment and Business Confidence : When businesses are optimistic about future prospects , they may increase investment and expand their production capacities ."
+    ]
+  },
+  {
+    "sentence": "However, if the demand for their products outstrips the expanded supply, it can lead to inflationary pressures.",
+    "concepts": [
+      "inflationary pressures",
+      "demand",
+      "demand for their products",
+      "products"
+    ],
+    "verbs": [
+      "expanded",
+      "lead",
+      "outstrips"
+    ],
+    "concepts_with_verbs": [
+      "expanded supply"
+    ]
+  }
+]

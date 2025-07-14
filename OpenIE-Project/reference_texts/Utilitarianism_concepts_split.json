@@ -1,0 +1,158 @@
+[
+  {
+    "sentence": "Utilitarianism is one of the most powerful and persuasive approaches to normative ethics in the history of philosophy.",
+    "concepts": [
+      "Utilitarianism",
+      "normative ethics",
+      "normative ethics in the history of philosophy",
+      "powerful and persuasive approaches to normative ethics in the history of philosophy",
+      "history",
+      "history of philosophy",
+      "powerful and persuasive approaches",
+      "powerful and persuasive approaches to normative ethics in the history of philosophy"
+    ],
+    "verbs": [
+      "is"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Though not fully articulated until the 19th century, proto-utilitarian positions can be discerned throughout the history of ethical theory.",
+    "concepts": [
+      "ethical theory",
+      "proto - utilitarian positions",
+      "19th century",
+      "history",
+      "history of ethical theory",
+      "utilitarian positions"
+    ],
+    "verbs": [
+      "articulated",
+      "be",
+      "discerned"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "Though there are many varieties of the view discussed, utilitarianism is generally held to be the view that the morally right action is the action that produces the most good.",
+    "concepts": [
+      "varieties",
+      "action",
+      "morally right action",
+      "good",
+      "view"
+    ],
+    "verbs": [
+      "are",
+      "be",
+      "discussed",
+      "held",
+      "is",
+      "produces"
+    ],
+    "concepts_with_verbs": [
+      "varieties of the view discussed",
+      "action that produces the most good",
+      "view discussed"
+    ]
+  },
+  {
+    "sentence": "There are many ways to spell out this general claim.",
+    "concepts": [
+      "general claim"
+    ],
+    "verbs": [
+      "are",
+      "spell"
+    ],
+    "concepts_with_verbs": [
+      "ways to spell out this general claim"
+    ]
+  },
+  {
+    "sentence": "One thing to note is that the theory is a form of consequentialism: the right action is understood entirely in terms of consequences produced.",
+    "concepts": [
+      "thing",
+      "form",
+      "form of consequentialism",
+      "right action",
+      "theory"
+    ],
+    "verbs": [
+      "is",
+      "note",
+      "produced",
+      "understood"
+    ],
+    "concepts_with_verbs": [
+      "thing to note",
+      "consequences produced",
+      "terms of consequences produced"
+    ]
+  },
+  {
+    "sentence": "What distinguishes utilitarianism from egoism has to do with the scope of the relevant consequences.",
+    "concepts": [
+      "relevant consequences",
+      "scope",
+      "scope of the relevant consequences"
+    ],
+    "verbs": [
+      "distinguishes",
+      "do",
+      "has"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "On the utilitarian view one ought to maximize the overall good  that is, consider the good of others as well as one's own good.",
+    "concepts": [
+      "good",
+      "good",
+      "good of others",
+      "good of others as well as one 's own good",
+      "overall good",
+      "utilitarian view"
+    ],
+    "verbs": [
+      "consider",
+      "maximize"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "The Classical Utilitarians, Jeremy Bentham and John Stuart Mill, identified the good with pleasure, so, like Epicurus, were hedonists about value.",
+    "concepts": [
+      "Epicurus",
+      "Jeremy Bentham",
+      "Jeremy Bentham and John Stuart Mill",
+      "John Stuart Mill",
+      "Classical Utilitarians",
+      "Classical Utilitarians , Jeremy Bentham and John Stuart Mill ,",
+      "hedonists about value",
+      "good"
+    ],
+    "verbs": [
+      "identified",
+      "were"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "They also held that we ought to maximize the good, that is, bring about the greatest amount of good for the greatest number.",
+    "concepts": [
+      "good for the greatest number",
+      "good",
+      "greatest amount",
+      "greatest number",
+      " the greatest amount of good for the greatest number "
+    ],
+    "verbs": [
+      "bring",
+      "held",
+      "is",
+      "maximize"
+    ],
+    "concepts_with_verbs": []
+  }
+]

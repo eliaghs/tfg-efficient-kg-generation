@@ -1,0 +1,8 @@
+sujeto;predicado;objeto
+"Quadratic equation";"GRAPH_IS";"Conic section"
+"Conic sections";"DESCRIBED_BY";"set of points in the coordinate plane"
+"String";"REPRESENTS";"constant in the definition of the ellipse"
+"Ellipse";"DEFINED_AS";"set of all points in a plane such that the sum of their distances from two fixed points is a constant"
+"Ellipse";"HAS_COMPONENT";"Foci"
+"Foci";"PLURAL_FORM";"Focus"
+"Ellipse";"DRAWN_USING";"cardboard, thumbtacks, pencil, and string"

@@ -1,0 +1,271 @@
+[
+  {
+    "sentence": "Utilitarianism is one of the most powerful and persuasive approaches to normative ethics in the history of philosophy.",
+    "concepts": [
+      "Utilitarianism",
+      "normative ethics",
+      "normative ethics in the history of philosophy",
+      "one",
+      "one of the most powerful and persuasive approaches to normative ethics in the history of philosophy",
+      "philosophy",
+      "the history",
+      "the history of philosophy",
+      "the most powerful and persuasive approaches",
+      "the most powerful and persuasive approaches to normative ethics in the history of philosophy"
+    ],
+    "verbs": [
+      "is"
+    ],
+    "concepts_with_verbs": [],
+    "concepts_cleaned": [
+      "Utilitarianism",
+      "normative ethics",
+      "normative ethics in the history of philosophy",
+      "powerful and persuasive approaches to normative ethics in the history of philosophy",
+      "philosophy",
+      "history",
+      "history of philosophy",
+      "powerful and persuasive approaches",
+      "powerful and persuasive approaches to normative ethics in the history of philosophy"
+    ]
+  },
+  {
+    "sentence": "Though not fully articulated until the 19th century, proto-utilitarian positions can be discerned throughout the history of ethical theory.",
+    "concepts": [
+      "ethical theory",
+      "proto",
+      "proto - utilitarian positions",
+      "the 19th century",
+      "the history",
+      "the history of ethical theory",
+      "utilitarian positions",
+      "proto-utilitarian positions"
+    ],
+    "verbs": [
+      "articulated",
+      "be",
+      "discerned"
+    ],
+    "concepts_with_verbs": [],
+    "concepts_cleaned": [
+      "ethical theory",
+      "proto",
+      "proto - utilitarian positions",
+      "19th century",
+      "history",
+      "history of ethical theory",
+      "utilitarian positions",
+      "proto - utilitarian positions"
+    ]
+  },
+  {
+    "sentence": "Though there are many varieties of the view discussed, utilitarianism is generally held to be the view that the morally right action is the action that produces the most good.",
+    "concepts": [
+      "many varieties",
+      "the action",
+      "the morally right action",
+      "the most good",
+      "the view",
+      "there",
+      "utilitarianism",
+      "that"
+    ],
+    "verbs": [
+      "are",
+      "be",
+      "discussed",
+      "held",
+      "is",
+      "produces"
+    ],
+    "concepts_with_verbs": [
+      "many varieties of the view discussed",
+      "the action that produces the most good",
+      "the view discussed"
+    ],
+    "concepts_cleaned": [
+      "varieties",
+      "action",
+      "morally right action",
+      "good",
+      "view",
+      "utilitarianism"
+    ]
+  },
+  {
+    "sentence": "There are many ways to spell out this general claim.",
+    "concepts": [
+      "There",
+      "this general claim",
+      "many ways"
+    ],
+    "verbs": [
+      "are",
+      "spell"
+    ],
+    "concepts_with_verbs": [
+      "many ways to spell out this general claim"
+    ],
+    "concepts_cleaned": [
+      "general claim",
+      "ways"
+    ]
+  },
+  {
+    "sentence": "One thing to note is that the theory is a form of consequentialism: the right action is understood entirely in terms of consequences produced.",
+    "concepts": [
+      "One thing",
+      "a form",
+      "a form of consequentialism",
+      "consequences",
+      "consequentialism",
+      "terms",
+      "the right action",
+      "the theory"
+    ],
+    "verbs": [
+      "is",
+      "note",
+      "produced",
+      "understood"
+    ],
+    "concepts_with_verbs": [
+      "One thing to note",
+      "consequences produced",
+      "terms of consequences produced"
+    ],
+    "concepts_cleaned": [
+      "thing",
+      "form",
+      "form of consequentialism",
+      "consequences",
+      "consequentialism",
+      "terms",
+      "right action",
+      "theory"
+    ]
+  },
+  {
+    "sentence": "What distinguishes utilitarianism from egoism has to do with the scope of the relevant consequences.",
+    "concepts": [
+      "egoism",
+      "the relevant consequences",
+      "the scope",
+      "the scope of the relevant consequences",
+      "utilitarianism",
+      "What"
+    ],
+    "verbs": [
+      "distinguishes",
+      "do",
+      "has"
+    ],
+    "concepts_with_verbs": [],
+    "concepts_cleaned": [
+      "egoism",
+      "relevant consequences",
+      "scope",
+      "scope of the relevant consequences",
+      "utilitarianism"
+    ]
+  },
+  {
+    "sentence": "On the utilitarian view one ought to maximize the overall good  that is, consider the good of others as well as one's own good.",
+    "concepts": [
+      "one",
+      "one 's",
+      "one 's own good",
+      "others",
+      "the good",
+      "the good of others",
+      "the good of others as well as one 's own good",
+      "the overall good",
+      "the utilitarian view",
+      "the overall good ",
+      "that",
+      "one's own good"
+    ],
+    "verbs": [
+      "consider",
+      "maximize"
+    ],
+    "concepts_with_verbs": [],
+    "concepts_cleaned": [
+      "good",
+      "good",
+      "good of others",
+      "good of others as well as one 's own good",
+      "overall good",
+      "utilitarian view",
+      "overall good ",
+      "good"
+    ]
+  },
+  {
+    "sentence": "The Classical Utilitarians, Jeremy Bentham and John Stuart Mill, identified the good with pleasure, so, like Epicurus, were hedonists about value.",
+    "concepts": [
+      "Epicurus",
+      "Jeremy Bentham",
+      "Jeremy Bentham and John Stuart Mill",
+      "John Stuart Mill",
+      "The Classical Utilitarians",
+      "The Classical Utilitarians , Jeremy Bentham and John Stuart Mill ,",
+      "hedonists",
+      "hedonists about value",
+      "pleasure",
+      "the good",
+      "value"
+    ],
+    "verbs": [
+      "identified",
+      "were"
+    ],
+    "concepts_with_verbs": [],
+    "concepts_cleaned": [
+      "Epicurus",
+      "Jeremy Bentham",
+      "Jeremy Bentham and John Stuart Mill",
+      "John Stuart Mill",
+      "Classical Utilitarians",
+      "Classical Utilitarians , Jeremy Bentham and John Stuart Mill ,",
+      "hedonists",
+      "hedonists about value",
+      "pleasure",
+      "good",
+      "value"
+    ]
+  },
+  {
+    "sentence": "They also held that we ought to maximize the good, that is, bring about the greatest amount of good for the greatest number.",
+    "concepts": [
+      "They",
+      "good",
+      "good for the greatest number",
+      "that",
+      "the good",
+      "the greatest amount",
+      "the greatest number",
+      "we",
+      " the greatest amount of good for the greatest number ",
+      "the greatest amount",
+      "the greatest number."
+    ],
+    "verbs": [
+      "bring",
+      "held",
+      "is",
+      "maximize"
+    ],
+    "concepts_with_verbs": [],
+    "concepts_cleaned": [
+      "good",
+      "good for the greatest number",
+      "good",
+      "greatest amount",
+      "greatest number",
+      " the greatest amount of good for the greatest number ",
+      "the greatest amount",
+      "greatest number."
+    ]
+  }
+]

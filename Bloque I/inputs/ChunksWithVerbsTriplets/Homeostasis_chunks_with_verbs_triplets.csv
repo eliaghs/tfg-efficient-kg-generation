@@ -1,0 +1,6 @@
+sujeto;predicado;objeto;confianza;frase
+"fluid";"bath";"cell";1.000;"The conditions vary with each organism, and also with whether the chemical processes take place inside the cell or in the interstitial fluid bathing the cells."
+"interstitial fluid";"bath";"cell";1.000;"The conditions vary with each organism, and also with whether the chemical processes take place inside the cell or in the interstitial fluid bathing the cells."
+"know homeostatic mechanism";"be in";"human";1.000;"The best-known homeostatic mechanisms in humans and other mammals are regulators that keep the composition of the extracellular fluid (or the ""internal environment"") constant, especially with regard to the temperature, pH, osmolality, and the concentrations of sodium, potassium, glucose, carbon dioxide, and oxygen."
+"many other homeostatic mechanism";"entity in";"body";1.000;"However, a great many other homeostatic mechanisms, encompassing many aspects of human physiology, control other entities in the body."
+"control other entity";"be in";"body";1.000;"However, a great many other homeostatic mechanisms, encompassing many aspects of human physiology, control other entities in the body."

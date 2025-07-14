@@ -1,0 +1,102 @@
+[
+  {
+    "sentence": "The metabolic processes of all organisms can only take place in very specific physical and chemical environments.",
+    "concepts": [
+      "metabolic processes",
+      "metabolic processes of all organisms",
+      "organisms",
+      "specific physical and chemical environments"
+    ],
+    "verbs": [
+      "take"
+    ],
+    "concepts_with_verbs": []
+  },
+  {
+    "sentence": "The conditions vary with each organism, and also with whether the chemical processes take place inside the cell or in the interstitial fluid bathing the cells.",
+    "concepts": [
+      "conditions",
+      "organism",
+      "place inside the cell",
+      "cell",
+      "cells",
+      "chemical processes",
+      "interstitial fluid"
+    ],
+    "verbs": [
+      "bathing",
+      "take",
+      "vary"
+    ],
+    "concepts_with_verbs": [
+      "interstitial fluid bathing the cells"
+    ]
+  },
+  {
+    "sentence": "The best-known homeostatic mechanisms in humans and other mammals are regulators that keep the composition of the extracellular fluid (or the \"internal environment\") constant, especially with regard to the temperature, pH, osmolality, and the concentrations of sodium, potassium, glucose, carbon dioxide, and oxygen.",
+    "concepts": [
+      "humans and other mammals",
+      "mammals",
+      "sodium , potassium , glucose , carbon dioxide",
+      "\" internal environment \"",
+      "composition",
+      "composition of the extracellular fluid ( or the \" internal environment \" ) constant , especially with regard",
+      "concentrations",
+      "concentrations of sodium , potassium , glucose , carbon dioxide",
+      "extracellular fluid",
+      "extracellular fluid ( or the \" internal environment \" )",
+      "extracellular fluid ( or the \" internal environment \" ) constant , especially",
+      "extracellular fluid ( or the \" internal environment \" ) constant , especially with regard",
+      "temperature",
+      "temperature , pH , osmolality , and the concentrations of sodium , potassium , glucose , carbon dioxide , and oxygen"
+    ],
+    "verbs": [
+      "are",
+      "keep",
+      "known"
+    ],
+    "concepts_with_verbs": [
+      "best - known homeostatic mechanisms",
+      "best - known homeostatic mechanisms in humans and other mammals",
+      "regulators that keep the composition of the extracellular fluid ( or the \" internal environment \" ) constant , especially with regard to the temperature , pH , osmolality , and the concentrations of sodium , potassium , glucose , carbon dioxide , and oxygen"
+    ]
+  },
+  {
+    "sentence": "However, a great many other homeostatic mechanisms, encompassing many aspects of human physiology, control other entities in the body.",
+    "concepts": [
+      "great many other homeostatic mechanisms",
+      "human physiology , control other entities",
+      "human physiology , control other entities in the body",
+      "aspects",
+      "aspects of human physiology , control other entities in the body",
+      "body"
+    ],
+    "verbs": [
+      "encompassing"
+    ],
+    "concepts_with_verbs": [
+      "great many other homeostatic mechanisms , encompassing many aspects of human physiology , control other entities in the body"
+    ]
+  },
+  {
+    "sentence": "Where the levels of variables are higher or lower than those needed, they are often prefixed with hyper- and hypo-, respectively such as hyperthermia and hypothermia or hypertension and hypotension.",
+    "concepts": [
+      "hyper -",
+      "hyper - and hypo -",
+      "hypertension and hypotension",
+      "hyperthermia and hypothermia",
+      "hyperthermia and hypothermia or hypertension and hypotension",
+      "hypo -",
+      "levels",
+      "levels of variables"
+    ],
+    "verbs": [
+      "are",
+      "needed",
+      "prefixed"
+    ],
+    "concepts_with_verbs": [
+      "needed"
+    ]
+  }
+]
